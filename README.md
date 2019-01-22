@@ -7,4 +7,4 @@ Click <a href="https://github.com/GourabNath/Project-Computer-Vision-for-Exam-In
 
 
 Picture 
-![Image description](https://www.analyticsindiasummit.com/wp-content/uploads/2018/09/Gourab-Nath.jpg)
+![Photo_of_Gourab_Nath](https://github.com/GourabNath/GourabNath.github.io/blob/master/Gourab%20Nath%20-%20For%20Cypher.jpg)
